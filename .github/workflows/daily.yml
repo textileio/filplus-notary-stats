@@ -23,3 +23,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # if run.py requires passwords..etc, set it as secrets
       - name: commit changes
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Daily stats update
