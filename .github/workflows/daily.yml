@@ -16,9 +16,13 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8 #install the python needed
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
       - name: execute py script # run the run.py to get the latest data
         run: |
-          python weekly.py
+          python Weekly.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # if run.py requires passwords..etc, set it as secrets
       - name: commit changes
