@@ -1,0 +1,25 @@
+name: daily
+    
+on:
+  pull_request:
+  schedule:
+    - cron: "0 0 * * *" 
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python weekly.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # if run.py requires passwords..etc, set it as secrets
+      - name: commit changes
+      - uses: stefanzweifel/git-auto-commit-action@v4
