@@ -1,12 +1,11 @@
 name: daily
     
 on:
-  pull_request:
   schedule:
     - cron: "0 0 * * *" 
     
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
