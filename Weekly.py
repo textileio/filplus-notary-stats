@@ -9,10 +9,17 @@ from github import Github
 from tabulate import tabulate
 
 
+# In[ ]:
+
+
+# Two notary handles that have since been replaced by a single one.
+ignored_notries = ["Broz221", "Rin-huang"]
+
+
 # In[2]:
 
 
-GH_TOKEN = os.environ.get('GITHUB_TOKEN')
+GH_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 g = Github(GH_TOKEN)
 
@@ -38,6 +45,8 @@ base = {"granted": 0, "open": 0, "closed": 0, "regions": [], "hours_to_grant": [
 rbase = {"granted": 0, "open": 0, "closed": 0, "notaries": [], "hours_to_grant": [], "hours_still_open": [], "median_to_grant": [], "median_still_open": []}
 for issue in open_issues:
     if issue.assignee == None:
+        continue
+    if issue.assignee in ignored_notries:
         continue
     granted = False
     region = ""
