@@ -1,16 +1,16 @@
-2021-06-29
+2021-06-30
 ==========
 
 # Open applications
 
-- All issues left open: 13
-- Average days open: 8.9
-- Median days open: 4.7
+- All issues left open: 12
+- Average days open: 7.3
+- Median days open: 4.2
 
 # Granted applications
 
-- All granted: 100
-- Average days to grant: 14.8
+- All granted: 101
+- Average days to grant: 14.7
 - Median days to grant: 10.8
 
 # Notary Details
@@ -18,16 +18,16 @@
 | Handle            |   Granted | Days to Grant Avg (Median)   |   Open | Days Left Open Avg (Median)   |   Closed (no grant) |
 |-------------------|-----------|------------------------------|--------|-------------------------------|---------------------|
 | 1am5UP3RasM4R10   |         0 | ....                         |      0 | ....                          |                   2 |
-| andrewxhill       |        10 | 8.5  (7.9)                   |      3 | 11.0  (0.3)                   |                  34 |
+| andrewxhill       |        10 | 8.5  (7.9)                   |      2 | 1.3  (1.3)                    |                  35 |
 | Broz221           |         9 | 8.2  (11.0)                  |      0 | ....                          |                  25 |
-| Fenbushi-Filecoin |         6 | 15.2  (16.0)                 |      1 | 3.9  (3.9)                    |                  37 |
+| Fenbushi-Filecoin |         6 | 15.2  (16.0)                 |      1 | 4.9  (4.9)                    |                  37 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
-| MasaakiNawatani   |         3 | 54.2  (69.6)                 |      0 | ....                          |                  21 |
-| neogeweb3         |        18 | 15.1  (10.0)                 |      1 | 6.9  (6.9)                    |                  36 |
+| MasaakiNawatani   |         3 | 54.2  (69.6)                 |      1 | 0.5  (0.5)                    |                  21 |
+| neogeweb3         |        18 | 15.1  (10.0)                 |      1 | 7.9  (7.9)                    |                  36 |
 | ozhtdong          |         6 | 14.9  (14.0)                 |      0 | ....                          |                  41 |
-| philippbanhardt   |        17 | 8.0  (6.9)                   |      5 | 3.0  (1.6)                    |                  72 |
+| philippbanhardt   |        17 | 8.0  (6.9)                   |      5 | 4.0  (2.6)                    |                  72 |
 | rayshitou         |         3 | 36.3  (32.1)                 |      0 | ....                          |                  11 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
 | s0nik42           |         4 | 20.7  (1.8)                  |      0 | ....                          |                  20 |
-| steven004         |        13 | 18.1  (12.0)                 |      2 | 23.3  (23.3)                  |                  27 |
-| XnMatrixSV        |         9 | 8.3  (10.9)                  |      1 | 6.7  (6.7)                    |                  16 |
+| steven004         |        13 | 18.1  (12.0)                 |      2 | 24.3  (24.3)                  |                  27 |
+| XnMatrixSV        |        10 | 8.1  (8.8)                   |      0 | ....                          |                  17 |
