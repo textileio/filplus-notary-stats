@@ -1,39 +1,39 @@
-2021-08-02
+2021-08-03
 ==========
 
 # Open applications
 
-- All issues left open: 30
-- Average days open: 11.6
-- Median days open: 9.7
+- All issues left open: 28
+- Average days open: 12.7
+- Median days open: 10.7
 
 # Granted applications
 
-- All granted: 115
+- All granted: 118
 - Average days to grant: 13.9
-- Median days to grant: 8.4
+- Median days to grant: 9.6
 
 # Notary Details
 
 | Handle            |   Granted | Days to Grant Avg (Median)   |   Open | Days Left Open Avg (Median)   |   Closed (no grant) |
 |-------------------|-----------|------------------------------|--------|-------------------------------|---------------------|
 | 1am5UP3RasM4R10   |         0 | ....                         |      0 | ....                          |                   2 |
-| andrewxhill       |        10 | 8.5  (7.9)                   |      2 | 19.7  (19.7)                  |                  36 |
-| Broz221           |         9 | 8.2  (11.0)                  |      1 | 19.4  (19.4)                  |                  27 |
+| andrewxhill       |        10 | 8.5  (7.9)                   |      2 | 20.7  (20.7)                  |                  36 |
+| Broz221           |         9 | 8.2  (11.0)                  |      1 | 20.4  (20.4)                  |                  27 |
 | dannyob           |         0 | ....                         |      0 | ....                          |                   2 |
-| DarnellWashington |         0 | ....                         |      1 | 6.6  (6.6)                    |                   0 |
+| DarnellWashington |         0 | ....                         |      1 | 7.6  (7.6)                    |                   0 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   2 |
-| Fenbushi-Filecoin |         6 | 15.2  (16.0)                 |      4 | 13.2  (14.2)                  |                  45 |
-| IPFSUnion         |         0 | ....                         |      3 | 5.5  (5.7)                    |                   0 |
+| Fenbushi-Filecoin |         6 | 15.2  (16.0)                 |      4 | 14.2  (15.2)                  |                  45 |
+| IPFSUnion         |         0 | ....                         |      3 | 6.5  (6.7)                    |                   0 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
-| MasaakiNawatani   |         4 | 43.2  (39.8)                 |      1 | 16.8  (16.8)                  |                  24 |
-| MRJAVAZHAO        |         0 | ....                         |      1 | 6.9  (6.9)                    |                   0 |
-| neogeweb3         |        21 | 13.7  (8.4)                  |      2 | 6.8  (6.8)                    |                  40 |
-| ozhtdong          |         6 | 14.9  (14.0)                 |      1 | 12.6  (12.6)                  |                  41 |
-| philippbanhardt   |        17 | 8.0  (6.9)                   |      8 | 11.8  (9.8)                   |                  81 |
-| rayshitou         |         3 | 36.3  (32.1)                 |      2 | 15.3  (15.3)                  |                  11 |
+| MasaakiNawatani   |         4 | 43.2  (39.8)                 |      1 | 17.8  (17.8)                  |                  24 |
+| MRJAVAZHAO        |         0 | ....                         |      1 | 7.9  (7.9)                    |                   0 |
+| neogeweb3         |        21 | 13.7  (8.4)                  |      2 | 7.8  (7.8)                    |                  40 |
+| ozhtdong          |         7 | 14.6  (13.0)                 |      1 | 11.7  (11.7)                  |                  42 |
+| philippbanhardt   |        17 | 8.0  (6.9)                   |      8 | 12.8  (10.8)                  |                  81 |
+| rayshitou         |         3 | 36.3  (32.1)                 |      2 | 16.3  (16.3)                  |                  11 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |         5 | 16.6  (1.2)                  |      1 | 2.1  (2.1)                    |                  21 |
-| steven004         |        17 | 17.6  (12.0)                 |      3 | 9.9  (9.6)                    |                  34 |
+| s0nik42           |         5 | 16.6  (1.2)                  |      1 | 3.1  (3.1)                    |                  21 |
+| steven004         |        19 | 16.8  (11.0)                 |      1 | 10.6  (10.6)                  |                  36 |
 | swatchliu         |         1 | 3.8  (3.8)                   |      0 | ....                          |                   1 |
 | XnMatrixSV        |        14 | 7.7  (7.6)                   |      0 | ....                          |                  23 |
