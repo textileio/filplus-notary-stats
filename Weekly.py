@@ -13,7 +13,7 @@ from tabulate import tabulate
 
 
 # Two notary handles that have since been replaced by a single one.
-ignored_notries = ["Broz221", "Rin-huang"]
+ignored_notries = ["Broz221", "Rin-huang", "1am5UP3RasM4R10", "dkkapur", "jsonsivar"]
 
 
 # In[2]:
