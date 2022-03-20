@@ -1,11 +1,11 @@
-2022-03-19
+2022-03-20
 ==========
 
 # Open applications
 
-- All issues left open: 22
-- Average days open: 9.2
-- Median days open: 10.1
+- All issues left open: 43
+- Average days open: 5.5
+- Median days open: 1.9
 
 # Granted applications
 
@@ -20,27 +20,27 @@
 | 1am5UP3RasM4R10   |         0 | ....                         |      0 | ....                          |                   2 |
 | andrewxhill       |        12 | 11.3  (10.1)                 |      0 | ....                          |                  46 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
-| cryptowhizzard    |         1 | 12.6  (12.6)                 |      2 | 11.9  (11.9)                  |                  17 |
-| dannyob           |        24 | 4.3  (2.3)                   |      2 | 8.8  (8.8)                    |                 102 |
+| cryptowhizzard    |         1 | 12.6  (12.6)                 |      2 | 12.9  (12.9)                  |                  17 |
+| dannyob           |        24 | 4.3  (2.3)                   |      3 | 6.7  (3.4)                    |                 102 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   2 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   2 |
-| Fenbushi-Filecoin |         6 | 8.7  (9.0)                   |      0 | ....                          |                  76 |
+| Fenbushi-Filecoin |         6 | 8.7  (9.0)                   |      3 | 0.6  (0.5)                    |                  76 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   3 |
-| IreneYoung        |         6 | 21.5  (15.7)                 |      2 | 19.3  (19.3)                  |                  29 |
+| IreneYoung        |         6 | 21.5  (15.7)                 |      3 | 13.8  (17.7)                  |                  30 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   6 |
 | MasaakiNawatani   |        25 | 16.1  (10.0)                 |      0 | ....                          |                  91 |
-| MegTei            |         7 | 11.9  (10.5)                 |      0 | ....                          |                  20 |
+| MegTei            |         7 | 11.9  (10.5)                 |      3 | 0.5  (0.5)                    |                  20 |
 | MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      0 | ....                          |                  65 |
 | neogeweb3         |        40 | 11.2  (6.5)                  |      0 | ....                          |                  74 |
-| ozhtdong          |        23 | 6.4  (1.2)                   |      4 | 6.5  (5.3)                    |                 104 |
+| ozhtdong          |        23 | 6.4  (1.2)                   |      4 | 7.5  (6.3)                    |                 104 |
 | philippbanhardt   |        18 | 7.9  (6.7)                   |      0 | ....                          |                  81 |
-| rayshitou         |        11 | 45.0  (44.1)                 |      8 | 6.9  (3.9)                    |                  48 |
+| rayshitou         |        11 | 45.0  (44.1)                 |     10 | 6.4  (4.9)                    |                  48 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
 | s0nik42           |        10 | 11.0  (1.8)                  |      0 | ....                          |                  36 |
-| steven004         |        41 | 12.2  (7.8)                  |      2 | 5.8  (5.8)                    |                 135 |
-| swatchliu         |         4 | 7.8  (4.4)                   |      1 | 12.8  (12.8)                  |                  24 |
+| steven004         |        41 | 12.2  (7.8)                  |     12 | 1.7  (0.5)                    |                 135 |
+| swatchliu         |         4 | 7.8  (4.4)                   |      2 | 7.3  (7.3)                    |                  24 |
 | TimWilliams00     |         2 | 6.1  (6.1)                   |      0 | ....                          |                   6 |
 | UnionLabs2020     |         7 | 14.0  (9.2)                  |      0 | ....                          |                  30 |
-| wjywood           |         0 | ....                         |      1 | 16.8  (16.8)                  |                  10 |
+| wjywood           |         0 | ....                         |      1 | 17.8  (17.8)                  |                  10 |
 | XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  32 |
