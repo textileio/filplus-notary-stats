@@ -1,11 +1,11 @@
-2022-04-15
+2022-04-16
 ==========
 
 # Open applications
 
-- All issues left open: 32
-- Average days open: 15.1
-- Median days open: 15.8
+- All issues left open: 31
+- Average days open: 16.6
+- Median days open: 16.8
 
 # Granted applications
 
@@ -21,19 +21,19 @@
 | andrewxhill       |        12 | 11.3  (10.1)                 |      0 | ....                          |                  46 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         1 | 12.6  (12.6)                 |      0 | ....                          |                  19 |
-| dannyob           |        24 | 4.3  (2.3)                   |      3 | 14.8  (2.1)                   |                 109 |
-| DarnellWashington |         0 | ....                         |      2 | 15.8  (15.8)                  |                   2 |
+| dannyob           |        24 | 4.3  (2.3)                   |      2 | 23.2  (23.2)                  |                 110 |
+| DarnellWashington |         0 | ....                         |      2 | 16.8  (16.8)                  |                   2 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   2 |
 | Fenbushi-Filecoin |         6 | 8.7  (9.0)                   |      0 | ....                          |                  79 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   3 |
-| IreneYoung        |         7 | 22.2  (15.8)                 |      9 | 14.8  (15.8)                  |                  33 |
+| IreneYoung        |         7 | 22.2  (15.8)                 |      9 | 15.8  (16.8)                  |                  33 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   6 |
-| MasaakiNawatani   |        25 | 16.1  (10.0)                 |      6 | 15.0  (15.8)                  |                  98 |
-| MegTei            |         7 | 11.9  (10.5)                 |      1 | 26.5  (26.5)                  |                  22 |
-| MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      1 | 1.8  (1.8)                    |                  65 |
-| neogeweb3         |        40 | 11.2  (6.5)                  |      1 | 15.6  (15.6)                  |                  74 |
-| ozhtdong          |        23 | 6.4  (1.2)                   |      9 | 15.6  (15.6)                  |                 108 |
+| MasaakiNawatani   |        25 | 16.1  (10.0)                 |      6 | 16.0  (16.8)                  |                  98 |
+| MegTei            |         7 | 11.9  (10.5)                 |      1 | 27.5  (27.5)                  |                  22 |
+| MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      1 | 2.8  (2.8)                    |                  65 |
+| neogeweb3         |        40 | 11.2  (6.5)                  |      1 | 16.6  (16.6)                  |                  74 |
+| ozhtdong          |        23 | 6.4  (1.2)                   |      9 | 16.6  (16.6)                  |                 108 |
 | philippbanhardt   |        18 | 7.9  (6.7)                   |      0 | ....                          |                  81 |
 | rayshitou         |        11 | 45.0  (44.1)                 |      0 | ....                          |                  58 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
