@@ -1,11 +1,11 @@
-2022-11-04
+2022-11-05
 ==========
 
 # Open applications
 
-- All issues left open: 21
-- Average days open: 14.9
-- Median days open: 9.9
+- All issues left open: 20
+- Average days open: 13.0
+- Median days open: 7.8
 
 # Granted applications
 
@@ -17,39 +17,39 @@
 
 | Handle            |   Granted | Days to Grant Avg (Median)   |   Open | Days Left Open Avg (Median)   |   Closed (no grant) |
 |-------------------|-----------|------------------------------|--------|-------------------------------|---------------------|
-| 1475Notary        |         3 | 23.3  (8.9)                  |      1 | 21.9  (21.9)                  |                  12 |
+| 1475Notary        |         3 | 23.3  (8.9)                  |      1 | 22.9  (22.9)                  |                  12 |
 | 1am5UP3RasM4R10   |         0 | ....                         |      0 | ....                          |                   2 |
 | andrewxhill       |        12 | 11.3  (10.1)                 |      0 | ....                          |                  69 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
-| cryptowhizzard    |         3 | 5.1  (2.7)                   |      3 | 0.6  (0.6)                    |                  36 |
+| cryptowhizzard    |         3 | 5.1  (2.7)                   |      3 | 1.6  (1.6)                    |                  36 |
 | dannyob           |        27 | 5.3  (2.5)                   |      0 | ....                          |                 136 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   6 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   3 |
 | Fenbushi-Filecoin |         8 | 7.3  (5.6)                   |      0 | ....                          |                 104 |
-| fireflyHZ         |         2 | 35.6  (35.6)                 |      3 | 5.3  (3.7)                    |                  10 |
+| fireflyHZ         |         2 | 35.6  (35.6)                 |      2 | 3.6  (3.6)                    |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      4 | 22.1  (12.6)                  |                  69 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      3 | 9.6  (2.6)                    |                  70 |
 | jamerduhgamer     |         0 | ....                         |      0 | ....                          |                   5 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
-| MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  28 |
-| MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      2 | 13.8  (13.8)                  |                 133 |
-| neogeweb3         |        44 | 12.3  (8.9)                  |      3 | 8.1  (9.9)                    |                 168 |
-| newwebgroup       |         0 | ....                         |      3 | 29.0  (26.6)                  |                  14 |
+| MegTei            |        10 | 10.1  (9.5)                  |      1 | 0.6  (0.6)                    |                  28 |
+| MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      2 | 14.8  (14.8)                  |                 133 |
+| neogeweb3         |        44 | 12.3  (8.9)                  |      3 | 9.1  (10.9)                   |                 168 |
+| newwebgroup       |         0 | ....                         |      3 | 30.0  (27.6)                  |                  14 |
 | ozhtdong          |        12 | 8.5  (5.5)                   |      0 | ....                          |                 110 |
 | philippbanhardt   |        18 | 7.9  (6.7)                   |      0 | ....                          |                  81 |
 | PluskitOfficial   |         0 | ....                         |      0 | ....                          |                   4 |
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 0.5  (0.5)                    |                  47 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 1.5  (1.5)                    |                  47 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 118 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
 | wjywood           |         0 | ....                         |      0 | ....                          |                  39 |
 | xinaxu            |         0 | ....                         |      0 | ....                          |                   1 |
-| xingjitansuo      |         0 | ....                         |      1 | 47.8  (47.8)                  |                   3 |
+| xingjitansuo      |         0 | ....                         |      1 | 48.8  (48.8)                  |                   3 |
 | XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  38 |
