@@ -1,11 +1,11 @@
-2022-12-04
+2022-12-05
 ==========
 
 # Open applications
 
-- All issues left open: 9
-- Average days open: 16.2
-- Median days open: 12.8
+- All issues left open: 10
+- Average days open: 15.5
+- Median days open: 13.7
 
 # Granted applications
 
@@ -20,7 +20,7 @@
 | 1475Notary        |         3 | 23.3  (8.9)                  |      0 | ....                          |                  13 |
 | 1am5UP3RasM4R10   |         0 | ....                         |      0 | ....                          |                   2 |
 | andrewxhill       |        12 | 11.3  (10.1)                 |      0 | ....                          |                  69 |
-| BlockMakeronline  |         0 | ....                         |      1 | 12.1  (12.1)                  |                   0 |
+| BlockMakeronline  |         0 | ....                         |      1 | 13.1  (13.1)                  |                   0 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
 | dannyob           |        27 | 5.3  (2.5)                   |      0 | ....                          |                 136 |
@@ -30,17 +30,17 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 22.6  (22.6)                  |                  73 |
-| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 10.2  (10.2)                  |                   7 |
-| Joss-Hua          |         0 | ....                         |      4 | 16.5  (15.6)                  |                   6 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 23.6  (23.6)                  |                  73 |
+| jamerduhgamer     |         2 | 2.1  (2.1)                   |      2 | 5.7  (5.7)                    |                   7 |
+| Joss-Hua          |         0 | ....                         |      4 | 17.5  (16.6)                  |                   6 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
-| junyaoren         |         0 | ....                         |      1 | 12.6  (12.6)                  |                   0 |
+| junyaoren         |         0 | ....                         |      1 | 13.6  (13.6)                  |                   0 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
 | MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      0 | ....                          |                 135 |
-| neogeweb3         |        44 | 12.3  (8.9)                  |      1 | 21.9  (21.9)                  |                 171 |
+| neogeweb3         |        44 | 12.3  (8.9)                  |      1 | 22.9  (22.9)                  |                 171 |
 | newwebgroup       |         0 | ....                         |      0 | ....                          |                  18 |
 | ozhtdong          |        11 | 9.3  (5.9)                   |      0 | ....                          |                 107 |
 | philippbanhardt   |        18 | 7.9  (6.7)                   |      0 | ....                          |                  81 |
