@@ -1,11 +1,11 @@
-2022-12-12
+2022-12-13
 ==========
 
 # Open applications
 
-- All issues left open: 7
-- Average days open: 16.8
-- Median days open: 20.1
+- All issues left open: 5
+- Average days open: 11.1
+- Median days open: 8.2
 
 # Granted applications
 
@@ -20,7 +20,7 @@
 | 1475Notary        |         3 | 23.3  (8.9)                  |      0 | ....                          |                  13 |
 | 1am5UP3RasM4R10   |         0 | ....                         |      0 | ....                          |                   2 |
 | andrewxhill       |        12 | 11.3  (10.1)                 |      0 | ....                          |                  69 |
-| BlockMakeronline  |         0 | ....                         |      1 | 20.1  (20.1)                  |                   0 |
+| BlockMakeronline  |         0 | ....                         |      0 | ....                          |                   1 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
 | dannyob           |        27 | 5.3  (2.5)                   |      0 | ....                          |                 136 |
@@ -30,11 +30,11 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 2.7  (2.7)                    |                  74 |
-| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 7.2  (7.2)                    |                   8 |
-| Joss-Hua          |         0 | ....                         |      3 | 22.4  (20.8)                  |                   7 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      2 | 2.7  (3.7)                    |                  74 |
+| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 8.2  (8.2)                    |                   8 |
+| Joss-Hua          |         0 | ....                         |      2 | 21.4  (21.4)                  |                   8 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
-| junyaoren         |         0 | ....                         |      1 | 20.6  (20.6)                  |                   0 |
+| junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
