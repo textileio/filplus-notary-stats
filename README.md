@@ -1,11 +1,11 @@
-2022-12-13
+2022-12-14
 ==========
 
 # Open applications
 
-- All issues left open: 5
-- Average days open: 11.1
-- Median days open: 8.2
+- All issues left open: 4
+- Average days open: 9.6
+- Median days open: 6.9
 
 # Granted applications
 
@@ -30,9 +30,9 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      2 | 2.7  (3.7)                    |                  74 |
-| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 8.2  (8.2)                    |                   8 |
-| Joss-Hua          |         0 | ....                         |      2 | 21.4  (21.4)                  |                   8 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      2 | 3.7  (4.7)                    |                  74 |
+| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 9.2  (9.2)                    |                   8 |
+| Joss-Hua          |         0 | ....                         |      1 | 22.8  (22.8)                  |                   9 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
