@@ -1,11 +1,11 @@
-2022-12-14
+2022-12-15
 ==========
 
 # Open applications
 
 - All issues left open: 4
-- Average days open: 9.6
-- Median days open: 6.9
+- Average days open: 10.6
+- Median days open: 7.9
 
 # Granted applications
 
@@ -30,9 +30,9 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      2 | 3.7  (4.7)                    |                  74 |
-| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 9.2  (9.2)                    |                   8 |
-| Joss-Hua          |         0 | ....                         |      1 | 22.8  (22.8)                  |                   9 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      2 | 4.7  (5.7)                    |                  74 |
+| jamerduhgamer     |         2 | 2.1  (2.1)                   |      1 | 10.2  (10.2)                  |                   8 |
+| Joss-Hua          |         0 | ....                         |      1 | 23.8  (23.8)                  |                   9 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
@@ -48,7 +48,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      0 | ....                          |                  49 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      0 | ....                          |                  50 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
