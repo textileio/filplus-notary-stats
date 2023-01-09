@@ -1,11 +1,11 @@
-2023-01-08
+2023-01-09
 ==========
 
 # Open applications
 
 - All issues left open: 1
-- Average days open: 29.7
-- Median days open: 29.7
+- Average days open: 30.7
+- Median days open: 30.7
 
 # Granted applications
 
@@ -30,7 +30,7 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 29.7  (29.7)                  |                  75 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 30.7  (30.7)                  |                  75 |
 | jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                   9 |
 | Joss-Hua          |         0 | ....                         |      0 | ....                          |                  10 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
