@@ -1,11 +1,11 @@
-2023-01-16
+2023-01-17
 ==========
 
 # Open applications
 
 - All issues left open: 2
-- Average days open: 22.0
-- Median days open: 22.0
+- Average days open: 23.0
+- Median days open: 23.0
 
 # Granted applications
 
@@ -30,7 +30,7 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 37.7  (37.7)                  |                  75 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 38.7  (38.7)                  |                  75 |
 | jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                   9 |
 | Joss-Hua          |         0 | ....                         |      0 | ....                          |                  10 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
@@ -48,7 +48,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 6.4  (6.4)                    |                  50 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 7.4  (7.4)                    |                  50 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
