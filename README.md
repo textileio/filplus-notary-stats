@@ -1,11 +1,11 @@
-2023-01-19
+2023-01-20
 ==========
 
 # Open applications
 
-- All issues left open: 2
-- Average days open: 25.0
-- Median days open: 25.0
+- All issues left open: 4
+- Average days open: 4.9
+- Median days open: 4.3
 
 # Granted applications
 
@@ -30,9 +30,9 @@
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      1 | 40.7  (40.7)                  |                  75 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      0 | ....                          |                  76 |
 | jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                   9 |
-| Joss-Hua          |         0 | ....                         |      0 | ....                          |                  10 |
+| Joss-Hua          |         0 | ....                         |      1 | 6.9  (6.9)                    |                  10 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
@@ -48,11 +48,12 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 9.4  (9.4)                    |                  50 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 10.4  (10.4)                  |                  50 |
+| simonkim0515      |         0 | ....                         |      2 | 1.0  (1.0)                    |                   0 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
 | wjywood           |         0 | ....                         |      0 | ....                          |                  39 |
 | xinaxu            |         0 | ....                         |      0 | ....                          |                   1 |
 | xingjitansuo      |         0 | ....                         |      0 | ....                          |                   4 |
-| XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  38 |
+| XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  39 |
