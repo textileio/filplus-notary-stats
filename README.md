@@ -1,11 +1,11 @@
-2023-01-31
+2023-02-01
 ==========
 
 # Open applications
 
 - All issues left open: 4
-- Average days open: 15.9
-- Median days open: 15.3
+- Average days open: 16.9
+- Median days open: 16.3
 
 # Granted applications
 
@@ -32,7 +32,7 @@
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
 | IreneYoung        |         8 | 21.2  (15.7)                 |      0 | ....                          |                  76 |
 | jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                   9 |
-| Joss-Hua          |         0 | ....                         |      1 | 17.9  (17.9)                  |                  10 |
+| Joss-Hua          |         0 | ....                         |      1 | 18.9  (18.9)                  |                  10 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
@@ -48,8 +48,8 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 21.4  (21.4)                  |                  50 |
-| simonkim0515      |         0 | ....                         |      2 | 12.0  (12.0)                  |                   0 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 22.4  (22.4)                  |                  50 |
+| simonkim0515      |         0 | ....                         |      2 | 13.0  (13.0)                  |                   0 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
