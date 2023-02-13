@@ -1,11 +1,11 @@
-2023-02-12
+2023-02-13
 ==========
 
 # Open applications
 
 - All issues left open: 2
-- Average days open: 31.7
-- Median days open: 31.7
+- Average days open: 32.7
+- Median days open: 32.7
 
 # Granted applications
 
@@ -32,7 +32,7 @@
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
 | IreneYoung        |         8 | 21.2  (15.7)                 |      0 | ....                          |                  76 |
 | jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                   9 |
-| Joss-Hua          |         0 | ....                         |      1 | 29.9  (29.9)                  |                  10 |
+| Joss-Hua          |         0 | ....                         |      1 | 30.9  (30.9)                  |                  10 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
@@ -48,7 +48,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 33.4  (33.4)                  |                  50 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 34.4  (34.4)                  |                  50 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
