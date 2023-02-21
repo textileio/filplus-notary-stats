@@ -1,11 +1,11 @@
-2023-02-20
+2023-02-21
 ==========
 
 # Open applications
 
 - All issues left open: 1
-- Average days open: 9.0
-- Median days open: 9.0
+- Average days open: 10.0
+- Median days open: 10.0
 
 # Granted applications
 
@@ -54,6 +54,6 @@
 | swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
 | wjywood           |         0 | ....                         |      0 | ....                          |                  39 |
-| xinaxu            |         0 | ....                         |      1 | 9.0  (9.0)                    |                   2 |
+| xinaxu            |         0 | ....                         |      1 | 10.0  (10.0)                  |                   2 |
 | xingjitansuo      |         0 | ....                         |      0 | ....                          |                   4 |
 | XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  39 |
