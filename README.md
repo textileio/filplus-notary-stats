@@ -1,15 +1,15 @@
-2023-03-20
+2023-06-11
 ==========
 
 # Open applications
 
-- All issues left open: 1
-- Average days open: 20.1
-- Median days open: 20.1
+- All issues left open: 2
+- Average days open: 5.0
+- Median days open: 5.0
 
 # Granted applications
 
-- All granted: 328
+- All granted: 327
 - Average days to grant: 11.7
 - Median days to grant: 7.0
 
@@ -25,6 +25,7 @@
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
 | dannyob           |        27 | 5.3  (2.5)                   |      0 | ....                          |                 136 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   6 |
+| destor2023        |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   3 |
 | Fenbushi-Filecoin |         8 | 7.3  (5.6)                   |      0 | ....                          |                 104 |
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
@@ -40,8 +41,9 @@
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
 | MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      0 | ....                          |                 135 |
-| neogeweb3         |        44 | 12.3  (8.9)                  |      0 | ....                          |                 172 |
+| neogeweb3         |        43 | 12.4  (8.4)                  |      0 | ....                          |                 145 |
 | newwebgroup       |         0 | ....                         |      0 | ....                          |                  18 |
+| NiwanDao          |         0 | ....                         |      0 | ....                          |                   4 |
 | ozhtdong          |        11 | 9.3  (5.9)                   |      0 | ....                          |                 107 |
 | philippbanhardt   |        18 | 7.9  (6.7)                   |      0 | ....                          |                  81 |
 | PluskitOfficial   |         0 | ....                         |      0 | ....                          |                   4 |
@@ -51,9 +53,7 @@
 | s0nik42           |        12 | 10.2  (1.8)                  |      0 | ....                          |                  51 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
-| swatchliu         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
 | wjywood           |         0 | ....                         |      0 | ....                          |                  39 |
-| xinaxu            |         0 | ....                         |      1 | 20.1  (20.1)                  |                   4 |
-| xingjitansuo      |         0 | ....                         |      0 | ....                          |                   4 |
+| xinaxu            |         0 | ....                         |      2 | 5.0  (5.0)                    |                   5 |
 | XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  39 |
