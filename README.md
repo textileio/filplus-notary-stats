@@ -1,11 +1,11 @@
-2023-06-19
+2023-06-20
 ==========
 
 # Open applications
 
 - All issues left open: 2
-- Average days open: 13.0
-- Median days open: 13.0
+- Average days open: 14.0
+- Median days open: 14.0
 
 # Granted applications
 
@@ -55,5 +55,5 @@
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
 | wjywood           |         0 | ....                         |      0 | ....                          |                  39 |
-| xinaxu            |         0 | ....                         |      2 | 13.0  (13.0)                  |                   5 |
+| xinaxu            |         0 | ....                         |      2 | 14.0  (14.0)                  |                   5 |
 | XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  39 |
