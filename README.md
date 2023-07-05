@@ -1,11 +1,11 @@
-2023-07-01
+2023-07-05
 ==========
 
 # Open applications
 
-- All issues left open: 2
-- Average days open: 25.0
-- Median days open: 25.0
+- All issues left open: 1
+- Average days open: 0.7
+- Median days open: 0.7
 
 # Granted applications
 
@@ -37,6 +37,7 @@
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
+| llifezou          |         0 | ....                         |      1 | 0.7  (0.7)                    |                   0 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
@@ -55,5 +56,5 @@
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
 | wjywood           |         0 | ....                         |      0 | ....                          |                  39 |
-| xinaxu            |         0 | ....                         |      2 | 25.0  (25.0)                  |                   5 |
+| xinaxu            |         0 | ....                         |      0 | ....                          |                   7 |
 | XnMatrixSV        |        18 | 6.5  (6.1)                   |      0 | ....                          |                  39 |
