@@ -1,15 +1,15 @@
-2023-07-06
+2023-07-20
 ==========
 
 # Open applications
 
 - All issues left open: 1
-- Average days open: 1.7
-- Median days open: 1.7
+- Average days open: 19.1
+- Median days open: 19.1
 
 # Granted applications
 
-- All granted: 327
+- All granted: 328
 - Average days to grant: 11.7
 - Median days to grant: 7.0
 
@@ -23,11 +23,11 @@
 | BlockMakeronline  |         0 | ....                         |      0 | ....                          |                   1 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
-| dannyob           |        27 | 5.3  (2.5)                   |      0 | ....                          |                 136 |
+| dannyob           |        27 | 5.3  (2.5)                   |      1 | 19.1  (19.1)                  |                 136 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   6 |
-| destor2023        |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   3 |
 | Fenbushi-Filecoin |         8 | 7.3  (5.6)                   |      0 | ....                          |                 104 |
+| Fiboracci         |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
@@ -37,7 +37,7 @@
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
-| llifezou          |         0 | ....                         |      1 | 1.7  (1.7)                    |                   0 |
+| llifezou          |         1 | 2.5  (2.5)                   |      0 | ....                          |                   1 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
