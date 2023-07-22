@@ -1,11 +1,11 @@
-2023-07-21
+2023-07-22
 ==========
 
 # Open applications
 
 - All issues left open: 1
-- Average days open: 20.1
-- Median days open: 20.1
+- Average days open: 21.1
+- Median days open: 21.1
 
 # Granted applications
 
@@ -23,7 +23,7 @@
 | BlockMakeronline  |         0 | ....                         |      0 | ....                          |                   1 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
-| dannyob           |        27 | 5.3  (2.5)                   |      1 | 20.1  (20.1)                  |                 136 |
+| dannyob           |        27 | 5.3  (2.5)                   |      1 | 21.1  (21.1)                  |                 136 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   6 |
 | Destore2023       |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   3 |
