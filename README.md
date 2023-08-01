@@ -1,11 +1,11 @@
-2023-07-31
+2023-08-01
 ==========
 
 # Open applications
 
 - All issues left open: 2
-- Average days open: 16.5
-- Median days open: 16.5
+- Average days open: 17.5
+- Median days open: 17.5
 
 # Granted applications
 
@@ -23,7 +23,7 @@
 | BlockMakeronline  |         0 | ....                         |      0 | ....                          |                   1 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
-| dannyob           |        27 | 5.3  (2.5)                   |      1 | 30.1  (30.1)                  |                 136 |
+| dannyob           |        27 | 5.3  (2.5)                   |      1 | 31.1  (31.1)                  |                 136 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   6 |
 | Destore2023       |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   3 |
@@ -51,7 +51,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 3.0  (3.0)                    |                  51 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 4.0  (4.0)                    |                  51 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
