@@ -1,11 +1,11 @@
-2023-08-08
+2023-08-09
 ==========
 
 # Open applications
 
 - All issues left open: 1
-- Average days open: 11.0
-- Median days open: 11.0
+- Average days open: 12.0
+- Median days open: 12.0
 
 # Granted applications
 
@@ -32,7 +32,7 @@
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
 | IreneYoung        |         8 | 21.2  (15.7)                 |      0 | ....                          |                  76 |
-| jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                   9 |
+| jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                  10 |
 | Joss-Hua          |         0 | ....                         |      0 | ....                          |                  11 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
@@ -51,7 +51,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 11.0  (11.0)                  |                  51 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 12.0  (12.0)                  |                  51 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
