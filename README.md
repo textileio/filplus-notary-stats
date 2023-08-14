@@ -1,11 +1,11 @@
-2023-08-13
+2023-08-14
 ==========
 
 # Open applications
 
 - All issues left open: 2
-- Average days open: 8.8
-- Median days open: 8.8
+- Average days open: 9.8
+- Median days open: 9.8
 
 # Granted applications
 
@@ -37,7 +37,7 @@
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
-| llifezou          |         1 | 2.5  (2.5)                   |      1 | 1.6  (1.6)                    |                   1 |
+| llifezou          |         1 | 2.5  (2.5)                   |      1 | 2.6  (2.6)                    |                   1 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
@@ -51,7 +51,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 16.0  (16.0)                  |                  51 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 17.0  (17.0)                  |                  51 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
