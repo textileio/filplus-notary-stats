@@ -1,15 +1,15 @@
-2023-08-14
+2023-08-15
 ==========
 
 # Open applications
 
 - All issues left open: 2
-- Average days open: 9.8
-- Median days open: 9.8
+- Average days open: 10.8
+- Median days open: 10.8
 
 # Granted applications
 
-- All granted: 328
+- All granted: 329
 - Average days to grant: 11.7
 - Median days to grant: 7.0
 
@@ -23,22 +23,22 @@
 | BlockMakeronline  |         0 | ....                         |      0 | ....                          |                   1 |
 | Broz221           |         7 | 12.9  (9.2)                  |      0 | ....                          |                  41 |
 | cryptowhizzard    |         3 | 5.1  (2.7)                   |      0 | ....                          |                  39 |
-| dannyob           |        27 | 5.3  (2.5)                   |      0 | ....                          |                 136 |
+| dannyob           |        28 | 5.2  (2.5)                   |      0 | ....                          |                 137 |
 | DarnellWashington |         0 | ....                         |      0 | ....                          |                   6 |
 | Destore2023       |        16 | 9.0  (2.5)                   |      0 | ....                          |                 122 |
 | dkkapur           |         0 | ....                         |      0 | ....                          |                   3 |
-| Fenbushi-Filecoin |         8 | 7.3  (5.6)                   |      0 | ....                          |                 104 |
+| Fenbushi-Filecoin |         8 | 7.3  (5.6)                   |      0 | ....                          |                 108 |
 | fireflyHZ         |         2 | 35.6  (35.6)                 |      0 | ....                          |                  11 |
 | flyworker         |         0 | ....                         |      0 | ....                          |                   8 |
 | IPFSUnion         |         7 | 14.0  (9.2)                  |      0 | ....                          |                  33 |
-| IreneYoung        |         8 | 21.2  (15.7)                 |      0 | ....                          |                  76 |
+| IreneYoung        |         8 | 21.2  (15.7)                 |      0 | ....                          |                  77 |
 | jamerduhgamer     |         2 | 2.1  (2.1)                   |      0 | ....                          |                  10 |
 | Joss-Hua          |         0 | ....                         |      0 | ....                          |                  11 |
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
-| llifezou          |         1 | 2.5  (2.5)                   |      1 | 2.6  (2.6)                    |                   1 |
-| MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 131 |
+| llifezou          |         1 | 2.5  (2.5)                   |      1 | 3.6  (3.6)                    |                   1 |
+| MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 133 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
 | MRJAVAZHAO        |        29 | 6.4  (5.8)                   |      0 | ....                          |                 135 |
@@ -49,9 +49,9 @@
 | philippbanhardt   |        18 | 7.9  (6.7)                   |      0 | ....                          |                  81 |
 | PluskitOfficial   |         0 | ....                         |      0 | ....                          |                   4 |
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
-| rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  62 |
+| rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  63 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 17.0  (17.0)                  |                  51 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 18.0  (18.0)                  |                  52 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
