@@ -1,17 +1,17 @@
-2023-08-15
+2023-08-16
 ==========
 
 # Open applications
 
-- All issues left open: 2
-- Average days open: 10.8
-- Median days open: 10.8
+- All issues left open: 1
+- Average days open: 19.0
+- Median days open: 19.0
 
 # Granted applications
 
-- All granted: 329
+- All granted: 330
 - Average days to grant: 11.7
-- Median days to grant: 7.0
+- Median days to grant: 6.9
 
 # Notary Details
 
@@ -37,7 +37,7 @@
 | jsonsivar         |         0 | ....                         |      0 | ....                          |                  13 |
 | junyaoren         |         0 | ....                         |      0 | ....                          |                   1 |
 | KodaRobotDog      |         2 | 6.9  (6.9)                   |      0 | ....                          |                   8 |
-| llifezou          |         1 | 2.5  (2.5)                   |      1 | 3.6  (3.6)                    |                   1 |
+| llifezou          |         2 | 3.1  (3.1)                   |      0 | ....                          |                   2 |
 | MasaakiNawatani   |        29 | 14.8  (9.9)                  |      0 | ....                          |                 133 |
 | MatrixStorage     |         1 | 0.3  (0.3)                   |      0 | ....                          |                   4 |
 | MegTei            |        10 | 10.1  (9.5)                  |      0 | ....                          |                  29 |
@@ -51,7 +51,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  63 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 18.0  (18.0)                  |                  52 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 19.0  (19.0)                  |                  52 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
