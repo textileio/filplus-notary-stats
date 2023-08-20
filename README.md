@@ -1,11 +1,11 @@
-2023-08-19
+2023-08-20
 ==========
 
 # Open applications
 
 - All issues left open: 1
-- Average days open: 22.0
-- Median days open: 22.0
+- Average days open: 23.0
+- Median days open: 23.0
 
 # Granted applications
 
@@ -51,7 +51,7 @@
 | psh0691           |         0 | ....                         |      0 | ....                          |                   3 |
 | rayshitou         |        12 | 42.5  (40.0)                 |      0 | ....                          |                  63 |
 | Rin-huang         |         2 | 32.4  (32.4)                 |      0 | ....                          |                   2 |
-| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 22.0  (22.0)                  |                  52 |
+| s0nik42           |        12 | 10.2  (1.8)                  |      1 | 23.0  (23.0)                  |                  52 |
 | simonkim0515      |         0 | ....                         |      0 | ....                          |                   2 |
 | steven004         |        45 | 11.5  (7.0)                  |      0 | ....                          |                 200 |
 | TimWilliams00     |         0 | ....                         |      0 | ....                          |                  15 |
